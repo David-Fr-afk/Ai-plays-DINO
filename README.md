@@ -69,7 +69,7 @@ This project uses neat to train a dinosaur to learn to jump over catci.
 
 ### Built With
 
-* [![NEAT].[Next.js][https://neat-python.readthedocs.io/en/latest/]
+* [![NEAT][Next.js]][[Next-url](https://neat-python.readthedocs.io/en/latest/)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
